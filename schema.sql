@@ -1,3 +1,6 @@
+-- Schema Definition for Cafe Restaurant Customer Orders and Management System
+
+
 -- TABLES:
 -- Represent customers of the cafe restaurant
 CREATE TABLE "Customers"(
