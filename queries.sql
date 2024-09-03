@@ -1,3 +1,5 @@
+-- Example Queries for Cafe Restaurant Customer Orders and Management System
+
 -- Find all the orders made by a particular customer
 SELECT
     *
@@ -13,6 +15,7 @@ WHERE
             "first_name" = 'Ankito'
             AND "last_name" = 'Kalita'
     );
+
 -- Find all the available non-veg starters
 SELECT
     "item_name",
