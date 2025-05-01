@@ -4,6 +4,14 @@ By Ankit AKash Kalita
 
 Video overview: <https://youtu.be/lzA0hE7zXtE?si=g2hEjpDazevhxQee>
 
+## Contents
+
+* [Scope](#scope)
+* [Functional Requirements](#functional-requirements)
+* [Representation](#representation)
+* [Optimizations](#optimizations)
+* [Limitations](#limitations)
+
 ## Scope
 
 The database for the "Cafe Restaurant Customer Orders and Management System" includes all entities necessary to manage customer interactions, track orders, and provide a comprehensive view of customer activity. As such, included in the database's scope is:
