@@ -1,5 +1,5 @@
 # Cafe-Restaurant-Orders-and-Management-System
-
+![logo](assets/cafe-restaurant-order-and-management-system-logo.png)
 By Ankit AKash Kalita
 
 Video overview: <https://youtu.be/lzA0hE7zXtE?si=g2hEjpDazevhxQee>
